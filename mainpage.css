@@ -1,0 +1,24 @@
+body{
+    font-family: Roboto, Arial,'Times New Roman', Times, serif;
+    background-color: cornsilk;
+}
+
+.Title {
+    text-align: center;
+    font-weight: lighter;
+    font-size: 75px;
+    margin-bottom: 0px;
+}
+.Intro {
+    margin-top: 5px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: 700;
+}
+.ZOOM {
+    width: 440px;
+    padding-left: 2.3px;
+    padding-right: 0px;
+    align-self: center;
+}
